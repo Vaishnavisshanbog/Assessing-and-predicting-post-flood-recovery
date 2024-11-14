@@ -5,6 +5,6 @@
 
 <h2>Files</h2>
 <p>
-code.ipynb: Main script containing the implementation.
+code.ipynb: Main script containing the implementation.<br/>
 dummy-flood-dataset.csv: The dataset used for training and predictions.
 </p>
